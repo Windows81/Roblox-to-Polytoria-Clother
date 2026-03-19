@@ -1,5 +1,7 @@
 # Roblox-to-Polytoria Clother
-ImageMagick command line to convert Rōblox shirts into a format which works with Polytoria.
+ImageMagick command line to convert Rōblox *shirts* into a format which works with Polytoria.
+
+Trousers can be supported upon request.
 
 ## Input Template
 
@@ -7,4 +9,4 @@ ImageMagick command line to convert Rōblox shirts into a format which works wit
 
 ## Output Template
 
-<img width="1024" height="1024" alt="template" src="https://github.com/user-attachments/assets/220a5b91-5463-4781-9695-fad68c9a83ee" />
+<img width="1024" height="1024" alt="template (1)" src="https://github.com/user-attachments/assets/e4224ed2-62ca-455c-9ac7-7804821c8f10" />
