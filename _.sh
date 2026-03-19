@@ -3,10 +3,9 @@
   \( -clone 0 -crop 064x128+165+074 -scale 088x290! -splice 351x103+0+0 +repage `# Torso R` \) \
   \( -clone 0 -crop 128x128+231+074 -scale 088x290! -splice 439x103+0+0 +repage `# Torso F` \) \
   \( -clone 0 -crop 064x128+361+074 -scale 088x290! -splice 585x103+0+0 +repage `# Torso L` \) \
-  \( -clone 0 -crop 128x128+427+074 -scale 088x290! -splice 519x103+0+0 +repage `# Torso B` \) \
   \( -clone 0 -crop 128x064+231+008 -scale 088x096! -splice 439x007+0+0 +repage `# Torso U` \) \
   \( -clone 0 -crop 128x064+231+204 -scale 088x096! -splice 439x393+0+0 +repage `# Torso D` \) \
-  \
+  \( -clone 0 -crop 128x128+427+074 -scale 088x290! -splice 419x513+0+0 +repage `# Torso B` \) \
   \
   \( -clone 0 -crop 064x128+019+355 -scale 066x290! -splice 006x071+0+0 +repage `# R Arm L` \) \
   \( -clone 0 -crop 064x128+085+355 -scale 066x290! -splice 072x071+0+0 +repage `# R Arm B` \) \
